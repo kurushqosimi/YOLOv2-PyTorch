@@ -57,7 +57,9 @@ python test_yolov2.py
 
 ## 📸 Примеры работы модели:
 
-*(image.png)*
+<p align="center">
+ <img width="200px" src="image.png" alt="qr"/>
+</p>
 
 ---
 
